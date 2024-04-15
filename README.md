@@ -6,7 +6,7 @@ The purpose of this project was to analyze the differences between separate-chai
 
 ## Graphs
 
-###Separate-Chaining
+### Separate-Chaining
 ![Seperate Chaining using Key1, Size: 2500](images/graph1.png)
 
 ![Seperate Chaining using Key1, Size: 3500](images/graph2.png)
@@ -27,7 +27,7 @@ The purpose of this project was to analyze the differences between separate-chai
 
 ![Seperate Chaining using Key1, Size: 6500](images/graph10.png)
 
-###Quadratic-Probing
+### Quadratic-Probing
 ![Quadratic Probing using Key2, Size: 2500](images/graph11.png)
 
 ![Quadratic Probing using Key2, Size: 3500](images/graph12.png)
