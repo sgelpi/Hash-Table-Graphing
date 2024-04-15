@@ -51,4 +51,5 @@ The purpose of this project was to analyze the differences between separate-chai
 
 ## Terminal Commands
 Compile command: g++ -std=c++17 main.cpp Game.cpp
+
 Run command: ./a.out
