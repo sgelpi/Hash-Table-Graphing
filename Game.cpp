@@ -1,9 +1,3 @@
-/**
- * James Davenport & Sam Gelpi
- * CS 2300
- * Section B
- */
-
 
 #include "Game.h"
 #include <string>
