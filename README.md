@@ -1,6 +1,7 @@
 # Hash Table Graphing
 
 ## About
+The purpose of this project was to analyze the differences between separate
 
 
 ## Graphs
