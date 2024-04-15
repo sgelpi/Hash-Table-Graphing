@@ -1,7 +1,9 @@
 # Hash Table Graphing
 
-About: The purpose of this project was
+## About
 
+
+## Graphs
 ![Seperate Chaining using Key1, Size: 2500](images/graph1.png)
 
 ![Seperate Chaining using Key1, Size: 3500](images/graph2.png)
@@ -43,6 +45,6 @@ About: The purpose of this project was
 ![Quadratic Probing using Key2, Size: 6500](images/graph20.png)
 
 
+## Terminal Commands
 Compile command: g++ -std=c++17 main.cpp Game.cpp
-
 Run command: ./a.out
